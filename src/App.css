@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.details{
+  background-color: lightseagreen;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.product{
+  background-color: lightseagreen;
+  padding: 15px;
+  border: 3px solid rgb(26, 150, 199);
+  margin: 15px;
+  border-radius: 20px;
+}
